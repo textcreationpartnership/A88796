@@ -1,0 +1,522 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lettre de monsieur de la Vallette, cy-devant cure ́dans le diocese de Blois pour servir de réponse à la lettre de monsieur l'evêque de Blois, &amp; à messieurs de son clergé, sur son changement de religion.</title>
+            <author>La Vallette, Monsieur de.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 66 KB of XML-encoded text transcribed from 35 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88796</idno>
+            <idno type="STC">Wing L623F</idno>
+            <idno type="STC">ESTC R15433</idno>
+            <idno type="EEBO-CITATION">99899591</idno>
+            <idno type="PROQUEST">99899591</idno>
+            <idno type="VID">154248</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88796)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154248)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2407:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Lettre de monsieur de la Vallette, cy-devant cure ́dans le diocese de Blois pour servir de réponse à la lettre de monsieur l'evêque de Blois, &amp; à messieurs de son clergé, sur son changement de religion.</title>
+                  <author>La Vallette, Monsieur de.</author>
+               </titleStmt>
+               <extent>53, 7 p.   </extent>
+               <publicationStmt>
+                  <publisher>pour D. Du Chemin, marchand libraire, au sacrifice d'Abraham, vis-à-vis Somerset-House, dans le Strand,</publisher>
+                  <pubPlace>A Londres :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Final 7 pp. = adv.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="fre">fre</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="fre">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154248:1" rendition="simple:additions"/>
+            <pb facs="tcp:154248:1"/>
+            <pb facs="tcp:154248:2"/>
+            <pb facs="tcp:154248:2"/>
+            <pb facs="tcp:154248:3"/>
+            <pb facs="tcp:154248:3"/>
+            <p>LETTRE DE MONSIEUR DE LA VALLETTE, CY-DEVANT CURE' Dans le Dioceſe de BLOIS, POUR <hi>Servir de Réponſe à la Lettre de Monſieur l'Evêque de</hi> BLOIS, <hi>&amp; à Meſſieurs de ſon Clergé, ſur ſon changement de Religion.</hi>
+            </p>
+            <p>
+               <hi>A LONDRES,</hi> Pour D. DU CHEMIN, Marchand Libraire, au Sacrifice d'Abraham, vis-à-vis <hi>Somerſet-Houſe,</hi> dans le <hi>Strand.</hi> 1700.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:154248:4"/>
+            <pb n="3" facs="tcp:154248:4"/>
+            <head>LETTRE De Monſieur l'Evêque de BLOIS, à Monſieur de la VALLETTE, touchant ſon changement de Religion.</head>
+            <p>
+               <seg rend="decorInit">J</seg>'AY été étrangement ſur<g ref="char:EOLhyphen"/>pris, Monſieur, d'aprendre que vous étes arrivé à Lon<g ref="char:EOLhyphen"/>dres, &amp; que vous étes tout prêt a'y abjurer vôtre Religion. Eſt il poſſible, que Dieu vous ait aveuglé juſ<g ref="char:EOLhyphen"/>ques à ce point? Non! je ne le ſau<g ref="char:EOLhyphen"/>rois croire. Et je ſuis perſuadé aiſe<g ref="char:EOLhyphen"/>ment, que c'eſt par ennuy ou par dégoût, que vous avez fait cette fauſſe démar<g ref="char:EOLhyphen"/>che, dont je ne doute point que vous ne vous repentiez, n'ayant eu aucune rai<g ref="char:EOLhyphen"/>ſon valable, pour le faire. Si cela eſt, vous pouvez à coup ſeur revenir, je vous donneray un Benefice plus conſide<g ref="char:EOLhyphen"/>rable que le vôtre; &amp; j'eſpere que vous ſerez content de ce que je feray pour vous. On m'a mis entre les mains un
+<pb n="4" facs="tcp:154248:5"/>Depêt, qui vous apartient. Je l'ay fait conſerver ſoigneuſement, &amp; il vous ſerarendu. Que ſi au contraire, le Sei<g ref="char:EOLhyphen"/>gneur vous endureit le coeur, &amp; que vous perſiſtiez à vouloir demeurer dans l'erreur, &amp; vous faire Huguenot, je ne répond point des malheurs infinies qui vous accableront; &amp; j'eſpere que Dieu permettra, que vous manquiez de tout &amp; même de pain, afin que cela vous oblige à revenir dans le Sein de l'Egliſe, que vous avez quité ſans rai<g ref="char:EOLhyphen"/>ſon: Mais prenez garde qu'il ne vous faſſe pas cette grace, &amp; qu'il ne vous frape auparavant de mort ſubite. Je le prie par les entrailles de ſa miſericor<g ref="char:EOLhyphen"/>de, de vous ouvrir les yeux, pour vous faire connoître l'état déplorable où vous étes. C'eſt la grace que je luy demande pour vous, ne ceſſant de le prier qu'il vous touche le coeur, étant ſincerement,</p>
+            <closer>
+               <dateline>A Paris ce <date>
+                     <hi>1.</hi> Aguſt <hi>1700.</hi>
+                  </date>
+               </dateline>
+               <signed>
+                  <hi>Vôtre très-affectioné Serviteur,</hi> DAVID NICOLAS, <hi>Evêque de Blois.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="5" facs="tcp:154248:5"/>
+            <head>LETTRE DE MONSIEUR DE LA VALLETTE, CY-DEVANT CURE' Dans le Dioceſe de BLOIS. A MESSIEURS Du CLERGE' de BLOIS, <hi>Sur ſon changement de Religion.</hi>
+            </head>
+            <opener>
+               <salute>MESSIEURS, <hi>Mes Trés-chers Freres en Jeſus Chriſt.</hi>
+               </salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>L eſt temps de ſatisfaire à la juſte curioſité que vous avez, de ſavoir les raiſons qui m'ont porté à quitter la France, à abandonner mes parens &amp; mes am s
+<pb n="6" facs="tcp:154248:6"/>qui m'aimoient tendrement. Et en<g ref="char:EOLhyphen"/>fin un Benefice aſſez conſiderable, dans, lequel je vivois agreable<g ref="char:EOLhyphen"/>ment, pour venir dans un Païs étran<g ref="char:EOLhyphen"/>ger, vivre avec des perſonnes qui ſe ſont dépoüillez volontairement de leurs biens, &amp; qui n'ont point de plus grand plaiſir au monde, que celuy d'avoir renoncé genereuſement pour Dieu &amp; pour leur conſience, à tou<g ref="char:EOLhyphen"/>tes les douceurs, &amp; à toutes les ſa<g ref="char:EOLhyphen"/>tisfactions de la vie. Je ne m'amu<g ref="char:EOLhyphen"/>feray pas icy à répondre aux offres obligeans que me fait Monſieur vôtre Evêque, dans la Lettre qu'il m'a ſait l'honneur de m'écrire, ni aux ména<g ref="char:EOLhyphen"/>ces foudroyantes qu'il me fait de la part de Dieu, ſi je ne retourne dans le Sein de ſon Egliſe. Il ſait ce que je luy ay répondu la deſſus. Je me contenteray ſeulement de vous apren<g ref="char:EOLhyphen"/>dre, les veritables Motifs qui m'ont obligez de quitter la Religion Ro<g ref="char:EOLhyphen"/>maine, pour embraſſer la Religion Reformée, &amp; de vous aſſeurer avec toute la ſincerité de mon coeur, que oe n'eſt, n'y par ennuy, n'y par in<g ref="char:EOLhyphen"/>conſtance,
+<pb n="7" facs="tcp:154248:6"/>n'y par aucun chagrin que je me ſuis ſeparé de vous, &amp; que j'ay quitté un ſi grand nombre d'a<g ref="char:EOLhyphen"/>mis que j'avois dans vôtre Province, auſquels j'étois uny par une ſolide &amp; ſincerité amitié; Mais par un deſir ardent de faire mon ſalut; car après un examen, déſinterſſé, après avoir lû avec attention, tout ce qu'il y a de plus excellens Livres de Contro<g ref="char:EOLhyphen"/>verſes de Meſſieurs Daillé, Claude, Nicole, &amp; Arnaud. Lors que je tra<g ref="char:EOLhyphen"/>vaillois aux Miſſions de la Ville de Mer, je reconnus avec la derniere évidence, que le veritable Chriſtia<g ref="char:EOLhyphen"/>niſme étoit renfermé dans la ſeule Egliſe Reformée, &amp; que l'Egliſe Ro<g ref="char:EOLhyphen"/>maine avoit alteré la pureté de ſa Foy, par un grand nombre d'erreurs &amp; de ſuperſtitions, dont elle étoit remplie. De ſorte que ne pouvant plus tenir contre la verité, qui par<g ref="char:EOLhyphen"/>loit efficacement à mon coeur de<g ref="char:EOLhyphen"/>puis quelques années, en faveur de l'Egliſe Reformée, je pris la reſolu<g ref="char:EOLhyphen"/>tion de l'embraſſer au plûtôt, &amp; de tout riſquer pour obeïr à la voix de
+<pb n="8" facs="tcp:154248:7"/>l'Eternel, qui parloit fortement au fond de mon coeur, &amp; qui me diſoit par la bouche de Saint Jean dans ſon Apocalipſe, chapire 19. verſet 4. <hi>Sortez de Babylon mon Peuple, afin que vous ne ſoyez participans de ſes pechez, &amp; que vous ne receviez point de ſes playes;</hi> ces pechez ſe ſont entre ſuivis juſqu'au Ciel, <hi>&amp; Dieu a eu ſouvenance de ſes iniquitez.</hi> Et dans la 2. aux Corrinthiens, chap. 6. verſet 17, &amp; 18. <hi>ſortez du milieu d'eux &amp; vous en ſeparez,</hi> dit le Sei<g ref="char:EOLhyphen"/>gneur, <hi>&amp; ne touchez à choſe aucune ſoüilés, &amp; je vous recevray, &amp; je vous ſeray pour Pere, &amp; vous me ſe<g ref="char:EOLhyphen"/>rez pour Fils,</hi> dit le Seigneur tout Puiſſant.</p>
+            <p>Je ſay bien, Meſſieurs, que vos Principes ſont fort opoſez à ces pa<g ref="char:EOLhyphen"/>roles de l'Eternel, puis que vous ſou<g ref="char:EOLhyphen"/>tenez que quand même l'Egliſe Ro<g ref="char:EOLhyphen"/>maine ſeroit Heritique ou Idolatre, il n'eſt jamais permis de s'en ſeparer pour quelque pretexte que ce ſoit. Mais il eſt facile de répondre à cette objection, en diſant, qu'on ne peut
+<pb n="9" facs="tcp:154248:7"/>demeurer uny avec une Societé qui oblige à faire profeſſion d'erreurs fondamentales, contre la Foy, &amp; à pratiquer des cultes ſacrileges &amp; ido<g ref="char:EOLhyphen"/>latres. Or l'Egliſe Romaine oblige à faire profeſſion de diverſes erreurs fondamentales, &amp; à pratiquer plu<g ref="char:EOLhyphen"/>ſieurs cultes ſacrileges &amp; idolatres, comme l'adoration de l'Hoſtie, &amp; quantité d'autres, &amp; par conſequent on ne peut demeurer dans ſa Com<g ref="char:EOLhyphen"/>munion; &amp; tous ceux qui ſont d'en<g ref="char:EOLhyphen"/>tre vous auſſi perſuadez que je le ſuis, de l'impieté de ſes cultes, (car il y en a, &amp; j'en connois,) ſont obligez en conſcience, de s'en ſepa<g ref="char:EOLhyphen"/>rer, d'une ſeparation poſitive, &amp; non pas d'une ſeparation negative, comme nous l'a tant de fois inſinué Monſieur vôtre Evéque, laquelle ſe<g ref="char:EOLhyphen"/>paration, diſoit-il, ne conſiſte qu'à s'abſtenir de la pratique de ſes Doctri<g ref="char:EOLhyphen"/>nes que l'on ne croit pas, aller à la Meſſe, &amp; croire ce qu'il vous plaira.</p>
+            <p>Vous ſavez, Meſſieurs, que cette diſtinction vous paroiſſoit la plus ac<g ref="char:EOLhyphen"/>commodante du monde, &amp; qu'elle
+<pb n="10" facs="tcp:154248:8"/>étoit du goût de la meilleure partie de ceux qui aſſiſtoient à nos confe<g ref="char:EOLhyphen"/>rences, parce qu'ils regardoient, quelques éclairez qu'ils fuſſent d'ail<g ref="char:EOLhyphen"/>leurs ſur la Religion, comme une difficulté inſurmontable, de quitter leurs biens, leurs Benefices, leurs dignitez, dans la Cathedrale, leurs amis &amp; leur Patrie, pour s'expoſer à manquer de tout, &amp; à mourir de faim, dans les Païs Etrangers; mais c'eſt une illuſion groſſiere, &amp; il faut que la conſcience ſoit bien aveuglée par l'ignorance; ou extraordinaire<g ref="char:EOLhyphen"/>ment endurcie par la malice, par les paſſions, pour tomber dans de telles illuſions, qui n'ont point d'autre principe, que l'amour propre. Ain<g ref="char:EOLhyphen"/>ſi, Meſſieurs, il faut que vous tom<g ref="char:EOLhyphen"/>biez neceſſairement d'accord avec moy, que quand on eſt pleinement convaincû de la fauſſeté des Dogmes qui ſont enſeignez dans l'Egliſe Ro<g ref="char:EOLhyphen"/>maine, de l'Idolatrie qu'elle a in<g ref="char:EOLhyphen"/>troduit dans le culte Divin, &amp; de la Tyrannie du Gouvernement qu'el<g ref="char:EOLhyphen"/>le exerce. On eſt abſolument obligé
+<pb n="11" facs="tcp:154248:8"/>d'en ſortir, pour pouvoir ailleurs ſervir Dieu purement &amp; avec liberté; ou ſi l'on demeure, ſoit par apprehenſion de mourir de faim en ce Païs, ſoit par quelqu'au<g ref="char:EOLhyphen"/>tres conſiderations humaines, on doit être dans la diſpoſition de ren<g ref="char:EOLhyphen"/>dre, aux dépens même de ſon ſang, un fidele témoignage à la verité, &amp; de ſe ſeparer par là, de toutes les abominations, &amp; de tout le culte ſuperſtitieux de la fauſſe Egliſe. Car quand on reſte dans l'Egliſe Romaine, c'eſt, ou dans le deſſein d'adherer de bonne foy à ſes Dogmes &amp; à ſon Culte, ou de faire ſeulement ſem<g ref="char:EOLhyphen"/>blant d'y adherer. Si l'on choiſit le premier de ces partis, on ſe rend dès là coupable d'une deſtable ido<g ref="char:EOLhyphen"/>latrie; &amp; ſi l'on prend le ſecond, on agît contre ſa conſcience, &amp; l'on tombe manifeſtement dans une hi<g ref="char:EOLhyphen"/>pocriſie criminelle, qui ſont l'un &amp; l'autre des pechez énormes, &amp; ab<g ref="char:EOLhyphen"/>ſolument incompatibles avec le ſalut. D'où je laiſſe à juger à tous ceux qui ont de la pieté, &amp; du bon ſens,
+<pb n="12" facs="tcp:154248:9"/>s'il y a à balancer dans le choix qu'on doit faire, ou de ſe rendre à la ſolicitation du monde, quelques avantageuſes que ſoient les promeſ<g ref="char:EOLhyphen"/>ſes qu'il nous peut faire, comme ſont celles que me fait Monſieur vô<g ref="char:EOLhyphen"/>tre Evêque, ou, de demeurer ferme dans la profeſſion de la verité, de quelques ſouffrances qu'elle ſoit ac<g ref="char:EOLhyphen"/>compagnée; en dût-il même cou<g ref="char:EOLhyphen"/>ter la vie, puis qu'en agiſſant autre<g ref="char:EOLhyphen"/>ment, c'eſt agir contre ſa conſcience &amp; ſe rendre coupable de cette terri<g ref="char:EOLhyphen"/>ble faute de laquelle parle Jeſu Chriſt, quand il dit, dans Sain Matthieu 10. verſet 33. <hi>Qui me reni<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> devant les hommes, je le reniera, auſſi devant mon Pere qui eſt au<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cieux.</hi>
+            </p>
+            <p>Mais avant que de toucher les er<g ref="char:EOLhyphen"/>reurs capitales qui ſe ſont gliſſés dan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> vôtre Egliſes, ſouffrez, Meſſieurs que je vous diſe un mot de celu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> qu'elle reconnoît pour ſon Chef, &amp; voyons à quel titre vous le regarde<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> comme Vicaire de Jeſus Chriſt, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> le Succeſſeur legitime de Saint Pierr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="13" facs="tcp:154248:9"/>Voyons, dis je, quel raport, &amp; quel<g ref="char:EOLhyphen"/>le conformité il y a, entre la vie que ce Divin Sauveur &amp; ſes Apôtres ont menez pendant qu'ils étoient ſur la terre, &amp; celle que nous voyons me<g ref="char:EOLhyphen"/>ner à ceux que vous dites être ſes ſucceſſeurs. Jeſus Chriſt diſoit à ſes Apôtres, <hi>Mon Regne n'eſt pas de ce monde, c'eſt aux Rois de la terre à dominer les Nations;</hi> Mais le Pape dit, Je ſuis Maître &amp; Souverain de pluſieurs Etats floriſſans, &amp; j'ay le pouvoir de dépoſer les Rois, de met<g ref="char:EOLhyphen"/>tre leurs Royaumes en interdit, de diſpenſer leurs Sujets du ſerment de fidelité; d'expoſer même leurs ſa<g ref="char:EOLhyphen"/>crées perſonnes à des Parricides, dont nous n'avons des exemples que trop ſenſibles. Jeſus Chriſt diſoit, <hi>Le Fils de l'homme n'a pas où repoſer ſa tête,</hi> le Pape dit, J'ay des apartemens magnifiques, des Palais ſuperbes, des Villes &amp; des Citadelles bien mu<g ref="char:EOLhyphen"/>nies, &amp; toute la terre redoute ma puiſſance. Jeſus Chriſt lavoit les pieds de ſes Apôtres, &amp; leur diſoit, <hi>Qu'il étoit venu, non pour être ſorvi,
+<pb n="14" facs="tcp:154248:10"/>mais pour ſervir les autres.</hi> Les Pa<g ref="char:EOLhyphen"/>pes au contraire ont un très-grand nombre d'Officiers pour les ſervir, ſe font baiſer les pieds par les Rois &amp; par leurs Ambaſſadeurs, ſe font poſer ſur l'Autel, afin d'y être ado<g ref="char:EOLhyphen"/>rez de tous les Cardinaux; &amp; par un renverſement de conduite épouvan<g ref="char:EOLhyphen"/>table, ils ont fait decider dans le Concile de Latran, Section 3. &amp; 10. que le Pape doit être adoré de tous les Peuples, &amp; qu'il eſt très ſembla<g ref="char:EOLhyphen"/>ble à Dieu; c'eſt pour cela qu'il ſe fait apeller le très-Saint Pere, qui eſt un attribut de Dieu, incommu<g ref="char:EOLhyphen"/>nicable à la créature. Enfin, leur aveuglement va juſqu'à ſe croire infaillibles, fondés ſur ces paroles de Jeſus Chriſt à Saint Pierre, <hi>Tu eſt Pierre, &amp; ſur cette Pierre j'édifiray mon Egliſe.</hi> Ne faudroit-il pas avoir perdu la raiſon, pour ſe perſuader que Dieu a étably à Rome, un homme, le plus ſouvent ſans naiſ<g ref="char:EOLhyphen"/>ſance &amp; ſans Lettres, pour conduire toute l'Egliſe, avec une pleine au<g ref="char:EOLhyphen"/>thorité, pour damner, pour ſauver,
+<pb n="15" facs="tcp:154248:10"/>pour juger de tous les differens, pour prononcer ſans apel, pour excommu<g ref="char:EOLhyphen"/>nier les Souverains, pour interdire les Etats; enfin pour être infaillible contre ces paroles de Jeſus Chriſt même, qui dit expreſſement en Saint Matthieu, <hi>Ne ſoyez pas apellez Maî<g ref="char:EOLhyphen"/>tre, car un ſeul eſt vôtre Maître, &amp; vous étes tous freres.</hi> Et en Saint Luc 22. verſet 25. touchant la con<g ref="char:EOLhyphen"/>teſtation qu'il y eut entre ſes Diſci<g ref="char:EOLhyphen"/>ples, ſavoir lequel d'entr'eux ſeroit eſtimé le plus grand, <hi>Les Rois des Na<g ref="char:EOLhyphen"/>tions les maitriſſent,</hi> leur dit-il, <hi>mais il n'en ſera pas ainſi de vous, mais que le plus grand d'entre vous ſoit com<g ref="char:EOLhyphen"/>me le moindre, &amp; celuy qui gouverne, comme celuy qui ſert.</hi> Deplus, ne voyons nous pas que Saint Pierre, dont les Papes ſe diſent les Succeſſeurs, bien loin de ſe croire le Maître des autres, leur obeït avec ſoumiſſion. Car il eſt dit, ou 8. chapitre des Actes verſet 14. <hi>que les Apôtres ayant apris que la ville de Samarie avoit re<g ref="char:EOLhyphen"/>çû la parole, ils y envoyerent Pierre &amp; Jean.</hi> Cela ne vous paroitroit-il
+<pb n="16" facs="tcp:154248:11"/>pas bien étrange, ſi Monſieur votre Evêque entreprenoit d'envoyer le Pape Prêcher l'Evangile; rien ce<g ref="char:EOLhyphen"/>pendant n'eſt plus conforme à la Sainte Ecriture.</p>
+            <p>Quoy! eſt il done poſſible, Meſ<g ref="char:EOLhyphen"/>ſieurs, que vous puiſſiez vous per<g ref="char:EOLhyphen"/>ſuader, que des Papes qui ſont or<g ref="char:EOLhyphen"/>dinairement élûs par des brigues in<g ref="char:EOLhyphen"/>fames, ſoient infaillibles, des Papes, dis-je, libertins, impies, inceſtueux, adulteres, fourbes, hypocrites, em<g ref="char:EOLhyphen"/>poiſonneurs, ſacrileges, ſorciers, ho<g ref="char:EOLhyphen"/>micides, &amp; qui ont été punis par le feu du Ciel, comme nous le voyons dans les Annalles Eccleſiaſtiques. De plus, l'Hiſtoire de tous les Siécles ne nous aprend-t-elle pas que jamais les Papes n'ont été reconnus pour infail<g ref="char:EOLhyphen"/>libles dans l'Eglife? Saint Paul ne reprend-il pas Saint Pierre, &amp; ne luy reſiſta t-il pas en face, de ce qu'il faiſoit Judaïſer les Gentils? Les Evê<g ref="char:EOLhyphen"/>ques d'Aſie &amp; de France n'ont-ils pas mépriſé les Decrets du Pape Victor, ſur la celebration du jour de Pâques? Saint Cyprien, qui vouloit qu'on Re<g ref="char:EOLhyphen"/>batiſât
+<pb n="17" facs="tcp:154248:11"/>les Heretiques, ne reſiſta-t-il pas juſqu'à la mort au Pape Etienne, &amp; ne ſe ſépara-t-il pas de Commu<g ref="char:EOLhyphen"/>nion avec luy? Libere ne ſigna-t-il pas l'impieté Ariene? Honorius ne ſe declara t-il pas pour les Monetelites? Enfin, le Concile de Conſtance ne prononca-t-il pas contre leur pré<g ref="char:EOLhyphen"/>tendüe infaillibilité, en dépoſant les trois Papes, ſavoir Gregoire 12. Be<g ref="char:EOLhyphen"/>noît 23. &amp; Jean 23? Mais ſans aller chercher ſi loin, n'avons nous pas vû que l'Aſſemblée du Clergé de France, tenüe en 1682. declara hau<g ref="char:EOLhyphen"/>tement le Pape Innocent XI. déchû des prétentions d'infaillibilité, &amp; d'in<g ref="char:EOLhyphen"/>reformabilité dans ſes jugemens, de pouvoir direct ou indirect ſur le tem<g ref="char:EOLhyphen"/>porel des Rois? Ce qui fut agreé &amp; approuvé ſolemnellement par le Par<g ref="char:EOLhyphen"/>lement, &amp; par toutes les Compa<g ref="char:EOLhyphen"/>gnies, tant Eccleſiaſtiques que Ci<g ref="char:EOLhyphen"/>viles. Cependant par la plus grande de toutes les lachetez, Meſſieurs les Evêques, afin d'avoir leurs Bulles à Rome, qu'on leurs refuſoit, ſigne<g ref="char:EOLhyphen"/>rent le contraire de ce qui avoit été
+<pb n="18" facs="tcp:154248:12"/>decidé dans cette Aſſemblée. Voùs voyez par là, l'étrange opoſition qu'il y a entre ces Papes &amp; les Apôtres, &amp; combien les Papes ſont faillibles. Je vous dirois encore que l'on voit regner le même eſprit d'orgüeil, d'avarice &amp; de domination, dans Meſſieurs les Cardinaux, les Evêques &amp; les Abez. Si je n'aprehendois de bleſſer le reſpect dû à Monſieur vôtre Evêque, qui eſt l'homme du monde le plus ſenſible, &amp; qui pardonne le moins.</p>
+            <p>A l'égard de l'infaillibilité de l'E<g ref="char:EOLhyphen"/>gliſe &amp; des Conciles, vous ſavez auſ<g ref="char:EOLhyphen"/>ſi bien que moy, Meſſieurs, qu'il n'en eſt fait aucune mention dans l'Ecriture Sainte. Elle dit ſeulement dans la premiere à Timothée, chap. 3. verſet 5. <hi>Que l'Egliſe eſt la colom<g ref="char:EOLhyphen"/>ne &amp; l'apuy de la verité, parce qu'el<g ref="char:EOLhyphen"/>le eſt la fidelle depoſitaire de la parole de Dieu qui eſt infaillible.</hi> Elle a été plus de 300. ans ſans aucun Con<g ref="char:EOLhyphen"/>cile; elle s'en eſt paſſée pendant tout ce tems là, pourquoy donc ne pourroit-t-elle pas ſubſiſter &amp; demeu<g ref="char:EOLhyphen"/>rer pure ſans les Conciles, qui n'ont
+<pb n="19" facs="tcp:154248:12"/>été convoquez que par occaſion? C'eſt donc une erreur groſſiere de ſe perſuader, qu'après que l'Egliſe ou un Concile General, a une fois deci<g ref="char:EOLhyphen"/>dé quelque article, il ne ſoit plus permis de l'examiner, &amp; qu'il faille acquiſſer à ſes deciſions, puis qu'il eſt aiſé de juſtifier par l'Hiſtoire, que les Conciles ont errez en pluſieurs points eſſentiels, &amp; qu'ils ſe contre<g ref="char:EOLhyphen"/>diſent les uns les autres, comme vous le voyez aiſement dans le 2. volume des Conciles du Pere l'Abe, où vous remarquerez d'un clain d'oeil, que les Conciles de Rimeni &amp; de Selucie ſous l'Empereur Conſtance, confir<g ref="char:EOLhyphen"/>merent l'Arianiſme. Et le ſecond Concile d'Epheſe ſous Theodoſe le Jeune, aprouva hautement l'Hereſi e d'Eutichés. Que le 2. Concile de Ni<g ref="char:EOLhyphen"/>ce établit le culte des Images; &amp; que les Conciles de Conſtantinople &amp; de Francfort le renverſerent. Enfin que les Conciles de Conſtance &amp; de Bâle, éleverent les Conciles au deſſus du Pape. Et les Conciles de Latran &amp; de Trente, élevent le Pape au deſ<g ref="char:EOLhyphen"/>ſus
+<pb n="20" facs="tcp:154248:13"/>des Conciles. Vous y voyez en<g ref="char:EOLhyphen"/>core une infinité d'autres erreurs, &amp; contradictions. En faut-il davanta<g ref="char:EOLhyphen"/>ge, Meſſieurs, pour vous convain<g ref="char:EOLhyphen"/>cre, que n'y les Papes, n'y l'Egliſe, n'y les Conciles même, ne ſont pas infaillibles. Et pour détruire vôtre principe que vous regardez comme un article de foy, qui eſt que l'Egli<g ref="char:EOLhyphen"/>ſe Romaine ne peut errer, &amp; qu'elle eſt infaillible dans toutes ces deciſions. Ce qui eſt une erreur monſtreuſe.</p>
+            <p>Il n'y a donc que Dieu ſeul, Meſ<g ref="char:EOLhyphen"/>ſieurs, qui ſoit infaillible; il n'y a que ſa Divine Parole qui doit avoir encore aujourd'huy autant de force, &amp; ſur nos coeurs, &amp; ſur nos eſprits, que ſi l'Eternel nous parloit du Ciel par la bouche de ſon Fils Jeſus Chriſt &amp; de ſes Apôtres. Il eſt vray que pour être pleinement convaincu de la Divinité de l'Ecriture, nous avons beſoin de l'operation du Saint Eſprit, qui agît dans nos ames, &amp; qui nous donne la grace de déméler la Parole de Dieu, d'avec celle des hommes, ſuivant la promeſſe que l'Eternel fait
+<pb n="21" facs="tcp:154248:13"/>à ceux qui le craignent, lors qu'il leur dit dans ſon Evangile ſelon S. Jean, chapitre 7. verſ. 17. <hi>Si quel<g ref="char:EOLhyphen"/>qu'un veut faire ſa volonté, il counoi<g ref="char:EOLhyphen"/>tra de la Doctrine,</hi> ſavoir ſtelle eſt de Dieu, <hi>ou ſi je parle de par moy même.</hi> Et dans le 6. chapitre verſet 68. <hi>Sci<g ref="char:EOLhyphen"/>gneur à qui irons nous, tu as les pa<g ref="char:EOLhyphen"/>roles de la vie éternelle.</hi> Ainſi l'E<g ref="char:EOLhyphen"/>criture Sainte ayant été divinement inſpirée, comme vous n'en pouvez pas douter, on ne peut l'accuſer d'imperfection, ſans outrager l'eſ<g ref="char:EOLhyphen"/>prit de Dieu qui en eſt autheur. Et en effet, elle eſt propre pour inſtrui<g ref="char:EOLhyphen"/>re, pour convaincre, pour corriger &amp; pour former à la juſtice, afin que <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>homme de Dieu ſoit accomply &amp; parfaitement inſtruit à toute bonne <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>euvre. De plus, l'Apôtre Saint <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aul ne nous enſeigne-t-il pas dans ſa Premiere aux Galates, chapitre 8. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 10. <hi>Que n'y les hommes, n'y les <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nges ne doivent Evangeliſer au de là <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ce qu'elle contient, &amp; qu'on ne doit <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mais entreprendre d'y rien ajouter, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> retrancher. Que c'eſt ſelon cette
+<pb n="22" facs="tcp:154248:14"/>parole, &amp; non ſelon les Traditions des hommes, que Dieu veut être ſervy. Que c'eſt. ſur elle ſeule que Jeſus Chriſt proteſte que nous ſerons jugez,</hi> en S. Jean 12. verſ. 48. Ainſi devons nous rejetter toutes Traditions qui ne ſont pas conformes à l'Ecriture Sainte, qui nous a été donnée pour être un flambeau à nos pieds, &amp; une lumie<g ref="char:EOLhyphen"/>re à nôtre voye, &amp; dans laquelle les choſes qui ſon neceſſaires pour le ſa<g ref="char:EOLhyphen"/>lut, &amp; pour la converſion du pecheur ſont enſeignées. C'eſt pour cette raiſon qu'il eſt dit dans les Proverbes, chapitre 6. verſ. 23. <hi>Que le comman<g ref="char:EOLhyphen"/>dement eſt une lampe, &amp; l'enſeigne<g ref="char:EOLhyphen"/>ment une lumiere, &amp; les reprehen<g ref="char:EOLhyphen"/>ſions propres à inſtruire.</hi> Pourquoy donc, Meſſieurs, privez vous vos Peuples de tant de precieux bien<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> qu'ils pouroient retirer de la lectur<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> de l'Ecriture Sainte que vous leur<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> deffendez? Faut-il s'étonner s'il<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſont ignorans dans la Religion, pui<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> que vous leurs dérobez la lumiere d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> cette Sainte Parole, en la tenan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> couverte du voile d'une langue in<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="23" facs="tcp:154248:14"/>connüe, lors même que vous la li<g ref="char:EOLhyphen"/>ſez dans vos Egliſes? Pourquoy, au lieu de cette Manne Celeſte, les repaiſſez vous d'une infinité de paſ<g ref="char:EOLhyphen"/>ſages des Peres, que des hommes ſu<g ref="char:EOLhyphen"/>jets à l'erreur ont inventez? Ne ſa<g ref="char:EOLhyphen"/>vez vous pas avec quelle indignation Dieu parle ſur ce ſujet, par la bou<g ref="char:EOLhyphen"/>che de ſon Prophete Jeremie chap. 23. verſ. 28. &amp; 29. <hi>Quelle conve<g ref="char:EOLhyphen"/>nance y a-t-il de la paille avec le fro<g ref="char:EOLhyphen"/>ment, ma parole n'eſt-t-elle pas toute ainſi qu'un feu,</hi> dit l'Eternel, <hi>&amp; comme un marteau qui briſe la pierre, ou le coeur de l'homme, qui eſt quel<g ref="char:EOLhyphen"/>quefois auſſi dur que la pierre?</hi> Mais les doctrines humaines ont-t-elles cette efficace ou cette vertu? Pour<g ref="char:EOLhyphen"/>quoy donc faites vous concevoir un certain dégoût à vos peuples pour cette Divine Parole, en diſant quel<g ref="char:EOLhyphen"/>le eſt dangereuſe pour les ſimples, &amp; que les Chrêtiens ne doivent pas la lire, ni la mediter. Quelle étrange illuſion, &amp; quel horrible blaſpheme contre le Saint Eſprit, qui nous dit expreſſement dans Saint Matthieu
+<pb n="24" facs="tcp:154248:15"/>chapitre 11. verſet 25. <hi>Je te rend grace, ô Pere, Seigneur du Ciel &amp; de la Terre, de ce que tu as caché ces choſes aux ſages &amp; aux entendus, &amp; de ce que tu les as revelé aux petits enfans?</hi> Et en effet, ne ſont-ce pas ces Sages &amp; ces Savans, qui d'ordinaire preſumants trop de leurs lumieres, ſont les autheurs des Erreurs &amp; des Hereſies? N'aprehendez-vous pas l'anatheme que Jeſus Chriſt pronon<g ref="char:EOLhyphen"/>ce contre les Docteurs Juifs, en S. Matthieu 23. verſ. 2. <hi>Malheur à vous Scribes &amp; Phariſiens, Hypocri<g ref="char:EOLhyphen"/>tes, qui fermez le Royaume des Cieux an devant des hommes, car vous n'y entrerez point vous même, &amp; vous ne ſouffrez point que ceux qui y enrent, y entrent?</hi> En un mot, n'eſt-t-il pas évident, que vous ne cachez cette divine lumiere, que pour éviter que l'on ne reconnoiſſe que vôtre Reli<g ref="char:EOLhyphen"/>gion n'eſt pas bonne? <hi>Tout homme,</hi> dit l'Eternel, en S. Jean 3. verſ. 20. <hi>qui fait des choſes mauvaiſes, hait la lumiere, &amp; il ne vient point à la lumiere, de peur que ſes oeuvres ne
+<pb n="25" facs="tcp:154248:15"/>ſoient condannez.</hi> Ainſi toute Tra<g ref="char:EOLhyphen"/>dition contraire à la Parole de Dieu écrite, eſt une impoſture, qui ne doit jamais l'emporter ſur la verité, puis que nous devons tenir pour ana<g ref="char:EOLhyphen"/>thême, ſelon S. Paul aux Galates, 2. verſ. 28. <hi>Qui que ſe ſoit qui nous an<g ref="char:EOLhyphen"/>nonce un Evangile different de celuy de Jeſus Chriſt.</hi>
+            </p>
+            <p>Mais pour achever de vous con<g ref="char:EOLhyphen"/>vaincre, que vôtre Religion eſt rem<g ref="char:EOLhyphen"/>plie d'erreurs, je me contenteray ſeu<g ref="char:EOLhyphen"/>lement de parcourir quelques Dog<g ref="char:EOLhyphen"/>mes eſſentiels qui ſont cauſe de ma ſeparation d'avec vous, &amp; qui ſont les principaux Motifs de ma Conver<g ref="char:EOLhyphen"/>ſion; &amp; de vous dire ſans aucun de<g ref="char:EOLhyphen"/>guiſement, que depuis pluſieurs an<g ref="char:EOLhyphen"/>nées, j'ay toûjours douté de la pre<g ref="char:EOLhyphen"/>ſence réelle de Jeſus Chriſt dans l'Eu<g ref="char:EOLhyphen"/>chariſtie; &amp; qu'après avoir examiné les raiſons de part &amp; d'autre, j'ay été perſuadé dans mon coeur, que Jeſus Chriſt n'y étoit point réellement preſent, &amp; que toute la réalité qu'il y a dans ce Sacrement, n'eſt qu'une réalité de preſence ſpirituelle, à l'ame
+<pb n="26" facs="tcp:154248:16"/>de ceux qui ont la foy; tellement que ces paroles de l'inſtitution du Sa<g ref="char:EOLhyphen"/>crement, <hi>Cecy eſt mon corps qui eſt donné pour vous, cecy eſt mon ſang qui eſt repandu pour vous,</hi> ne peu<g ref="char:EOLhyphen"/>vent pas être entendües d'une pre<g ref="char:EOLhyphen"/>ſence de corps groſſiere &amp; charnelle, mais d'une preſence miſtique &amp; Sacra<g ref="char:EOLhyphen"/>mentale; car Jeſus Chriſt explique nettement luy même ce qu'il entend par manger ſa chair &amp; boire ſon ſang, lors qu'il dit en Saint Jean chap. 6. <hi>Je ſuis le Pain de vie, qui vient à moy il n'aura point de faim, &amp; qui croſt en moy n'aura point de ſoif.</hi> Par où il eſt évident, que venir à Jeſus Chriſt &amp; croire en luy, ſigni<g ref="char:EOLhyphen"/>fient autant que manger ſa chair &amp; boire ſon ſang; par ce que ſi ſes deux dernieres expreſſions ſignifient qu'en mangeant on apaiſe ſa faim, &amp; qu'en beuvant on apaiſe ſa ſoif, on fait la même choſe en allant à Jeſus Chriſt, &amp; en croyant en luy. De là, il eſt aiſé de voir, que le pain &amp; le vin, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>i ſelon Saint Paul, ſont les élemens de l'Euchariſtie, ne ſont quand à
+<pb n="27" facs="tcp:154248:16"/>leurs ſubſtance, ni changez, ni an<g ref="char:EOLhyphen"/>neantis. Il apelle poſitivement aux Corinth. 20. verſ. 16. <hi>le pain Eucha<g ref="char:EOLhyphen"/>riſtique, la Communion du Corps de Chriſt,</hi> parce que dans l'Ecriture, c'eſt la coûtume de l'eſprit de Dieu, de donner aux ſignes, les noms des choſes qu'ils repreſentent, ni ayant point de termes dens l'Hebreux, qui eſt la Langue dont Jeſus Chriſt ſe ſer<g ref="char:EOLhyphen"/>vit dans l'inſtitution de ce Sacrement, pour dire repreſenter. Ce qui eſt cauſe que pour nous faire entendre qu'une choſe en repreſente une autre, elle dit, que cette choſe eſt, ce dont elle n'eſt que la repreſentation. Et comme dit S. Auguſtin dans ſon Epître à Boniface, c'eſt la coûtume, que dans les Sacre<g ref="char:EOLhyphen"/>mens, le ſigne prend le nom de la choſe ſignifiée. De ſorte que Dieu a honoré les ſignes qui ſe voyoient, du nom de ſon corps &amp; de ſon ſang; non en changeant la Nature, dir ce Pere, mais en ajoûtant la Grace à la Nature. Ne ſait on pas que la Pâ<g ref="char:EOLhyphen"/>que eſt apellée un Paſſage, &amp; la Cir<g ref="char:EOLhyphen"/>conciſion, l'Alliance de Dieu. Et
+<pb n="28" facs="tcp:154248:17"/>enfin, que le Seigneur parlant de la Coupe, l'apelle en Saint Luc 22 verſ. 20, <hi>Le Nouveau Teſtament en ſon Sang,</hi> parce que le vin qu'il donnoit à ſes Diſciples, étoit une figure &amp; une repreſentation du ſang qu'il de<g ref="char:EOLhyphen"/>voit répandre, pour Séeller &amp; pour confirmer la Nouvelle Alliance. Il eſt donc évident, que lors que Jeſus Chriſt apelle le pain rompu, ſon corps rompu, &amp; le vin verſé, ſon ſon ſang répandu, il ne veut dire autre choſe, ſi ce n'eſt que ce pain rompu, repreſente ſon corps rompu &amp; Crucifié, &amp; que ce vin verſé, re<g ref="char:EOLhyphen"/>preſente ſon ſang répandu pour nô<g ref="char:EOLhyphen"/>tre Salut. Mais afin qu'il ne vous reſte plus aucune difficulté, je vous prie, Meſſieurs, de remarquer, que ſi ces paroles, <hi>que ſi vous ne mangez ma chair, &amp; ſi vous ne beuvez mon ſang; ma chair eſt vrayement une viande, &amp; mon ſang vrayement un breuvage,</hi> doivent être priſes à la lettre. Nôtre Seigneur ſouffriroit réellement la mort par cette réelle ſe<g ref="char:EOLhyphen"/>paration de ſon ſang d'avec ſa chair
+<pb n="29" facs="tcp:154248:17"/>&amp; beaucoup plus encore, lors que nous mangerions réellement ſa chair &amp; que nous boirions réellement ſon ſang. Ainſi ſuivant les Divines Ecri<g ref="char:EOLhyphen"/>tures, le pain &amp; le vin après les paroles de l'inſtitution, ne ſont que les Symboles du corps &amp; du ſang de nôtre Seigneur, lequel nous recevons neanmoins réellement par la foy, ſe<g ref="char:EOLhyphen"/>lon ſes belles paroles de Saint Au<g ref="char:EOLhyphen"/>guſtin, <hi>croyez &amp; vous avez mangé.</hi>
+            </p>
+            <p>Mais ce qui ma fait une peine très<g ref="char:EOLhyphen"/>ſenſible dans vôtre Communion, &amp; ce qui n'a pas peu contribüer à me faire connoître la verité, c'eſt de voir que vous ayez oſez retrancher le Caſice au Peuple Chrêtien, qui luy avoit été accordé pendant quatorze cens ans, comme il ſe pratique encore dans les Egliſes Grecques, Moſco<g ref="char:EOLhyphen"/>vites, Harmenienes, Ethiopiennes, &amp; dans toutes les Egliſes Reformez. Cependant les Conciles de Conſtan<g ref="char:EOLhyphen"/>ce, &amp; de Trente, par un attentat innouï, prononcent dans leurs De<g ref="char:EOLhyphen"/>crets, dont voicy les paroles. <hi>En<g ref="char:EOLhyphen"/>core que Chriſt aye inſtitué le Sacre<g ref="char:EOLhyphen"/>ment
+<pb n="30" facs="tcp:154248:18"/>ſous les deux eſpeces, que la Pri<g ref="char:EOLhyphen"/>mitive Egliſe l'ait inſi pratiqué, nean<g ref="char:EOLhyphen"/>moins la coûtume contraire doit ſervir de Loy.</hi> A-t-on jamais vû, Meſſieurs, une entrepriſe plus temeraire &amp; plus audacieuſe? Quoy! nôtre Seigneur en inſtituant cette Sainte Coupe nous dit, <hi>Faites cecy toutes les fois que vous en boirez en commemoration de moy.</hi> Nous ſommes donc obligez d'en boi<g ref="char:EOLhyphen"/>re tous, afin de faire la commemora<g ref="char:EOLhyphen"/>tion de ſa mort. Cependant vous ne voulez pas dans vôtre Commu<g ref="char:EOLhyphen"/>nion, que tous ceux qui doivent fai<g ref="char:EOLhyphen"/>re cette Sainte Commemoration, boivent de cette Coupe Sacrée, quoy que Jeſus Chriſt en inſtituant la Sain<g ref="char:EOLhyphen"/>te Cene, ait donné le Calice à tous ceux qu'il reçût à ce Sacrement, com<g ref="char:EOLhyphen"/>me les Evangeliſtes, &amp; Saint Paul, nous le font fort bien remarquer. Nė me dites donc pas, Meſſieurs, com<g ref="char:EOLhyphen"/>me Monſieur vôtre Evêque nous le faiſoit dire, que les ſeuls Prêtres ont droit de prendre les deux eſpeces, par ce qu'ils ont ſuccedé aux Apô<g ref="char:EOLhyphen"/>tres, qui ont pris le pain &amp; le vin à
+<pb n="31" facs="tcp:154248:18"/>la Sainte Cene; non en qualité de Laïques, mais en qualité de Prêtres. Cette réponſe n'eſt pas recevable, puis qu'elle eſt contraire aux paroles de l'Evangile, où il eſt dit expreſſe<g ref="char:EOLhyphen"/>ment en Saint Matth. 26. verſ. 27. <hi>Puis ayant pris la Coupe &amp; rendu gra<g ref="char:EOLhyphen"/>cet, il le leurs bailla, diſant, beu<g ref="char:EOLhyphen"/>vez en tous.</hi> Et nous voyons que S. Paul n'exclud porſonne, lors qu'il dit en termes formels, <hi>Que chacun s'éprouve ſoy-même, &amp; qu'enſuite il mange de ce pain &amp; boive de cette coupe.</hi> Ce grand Apôtre parle à un très-grand nombre de Fideles, qu'il exhorte à participer tous au Symbo<g ref="char:EOLhyphen"/>le du pain &amp; du vin, après une ſin<g ref="char:EOLhyphen"/>cere épreuve d'eux même. Il ne fait donc aucune diſtinction, ni de Prê<g ref="char:EOLhyphen"/>tre, ni de Laïque, ni aucune divi<g ref="char:EOLhyphen"/>ſion du pain d'avec le vin; &amp; c'eſt un abus, &amp; une erreur toute des plus groſſieres, d'en chercher où Jeſus Chriſt &amp; ſes Apôtres n'en ont point mis. De plus vous ſavez qu'on re<g ref="char:EOLhyphen"/>fuſe la Coupe à vos Prêtres mêmes lors qu'ils Communient ſans Cele<g ref="char:EOLhyphen"/>brer.
+<pb n="32" facs="tcp:154248:19"/>Mais dites plûtôt, Meſſieurs, que vous avez honte d'avoüer, que vôtre Egliſe &amp; vos deux fameux Con<g ref="char:EOLhyphen"/>ciles de Conſtance &amp; de Trente, ſont tombez dans l'erreur; car ce n'eſt pas une choſe de petite conſequence, de faire paſſer pour un Sacrement Di<g ref="char:EOLhyphen"/>vin, un qui n'eſt que d'une inſtitu<g ref="char:EOLhyphen"/>tion purement humaine, dont on a retranché une partie, &amp; auquel par conſequent Dieu n'a pas promis d'at<g ref="char:EOLhyphen"/>tacher l'efficace de ſa grace.</p>
+            <p>Mais vous n'en demeurez pas en<g ref="char:EOLhyphen"/>core là, Meſſieurs, vous pouſſez vos erreurs plus loin. Car à l'égard des cinq autres Sacremens que vous avez ajoûtez au Baptême &amp; à la Sainte Cene, ne ſommes nous pas mille fois convenus enſemble, qu'ils n'étoient que d'inſtitution humaine, agréable<g ref="char:EOLhyphen"/>ment inventez pour augmenter le re<g ref="char:EOLhyphen"/>venu de nos Benefices, &amp; dont l'E<g ref="char:EOLhyphen"/>criture Sainte ne fait aucune men<g ref="char:EOLhyphen"/>tion? Et quand au Sacrifice de la Meſſe, qui eſt une ſuite de la Réalité &amp; de la Tranſubſtantiation, c'eſt un égarement de le chercher dans l'An<g ref="char:EOLhyphen"/>cien
+<pb n="33" facs="tcp:154248:19"/>Teſtament, qui ne parle que des ceremonies &amp; du culte de l'ancienne Religion. On y trouve bien le Sa<g ref="char:EOLhyphen"/>crifice de Melchiſedech, qui offrit du pain &amp; du vin; mais bien loin de favoriſer celuy de la Meſſe, il le dé<g ref="char:EOLhyphen"/>truit abſolume<g ref="char:cmbAbbrStroke">̄</g>t, puis que Melchiſedec n'a eu ni commencement de jours, ni fin de vie, ni aucun ſucceſſeur dans ſa charge de Sacrificateur. Que ſi vous le cherchez dans le Nouveau Teſtament, &amp; que vous l'appuyïezſur ces paroles de Jeſus Chriſt, <hi>cecy eſt mon corps,</hi> comme Monſieur vôtre Evéque <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou<g ref="char:EOLhyphen"/>loit nous le perſuader, le Seigneur le détruit luy même, los qu'il dit, <hi>fai<g ref="char:EOLhyphen"/>tes cecy en memoire de moy.</hi> Ce qui marque que l'Euchariſtie n'eſt qu'une commemoration de ſon Sacrifice. On ne voit point dans l'Ecriture, où, ni quand ce Sacrifice a été inſtitué. Vous dites que Jeſus Chriſt l'inſtitüa avec l'Euchariſtie.</p>
+            <p>Mais nous ne voyons point que les Apôtres à qui il le diſtribüa, l'ayent adoré. Ils étoient couchez lors qu'ils le receurent ſelon la coutume des
+<pb n="34" facs="tcp:154248:20"/>Orientaux de ſe mettre à table; où étoit donc l'Oblation ou la repreſen<g ref="char:EOLhyphen"/>tation de la Victime?</p>
+            <p>L'on ne peut pas dire qu'il s'offrit luy même, ſon corps n'ayant pas en<g ref="char:EOLhyphen"/>core été rompu, ni ſon ſang répan<g ref="char:EOLhyphen"/>du. Après cela faut-il s'étonner ſi pluſieurs Peres ſoutinrent dans le Concile de Trente, qu'il n'y avoit qu'un ſeul &amp; unique Sacrifice de Je<g ref="char:EOLhyphen"/>ſus Chriſt ſur la Croix, qui eſt d'un prix infini &amp; ſuffiſant pour expier les pechez de mille mondes, s'il y en avoit autant. Et Saint Paul dit en termes exprès, <hi>Que ſans effuſion de ſang, il ne ſe fait point de remiſſion.</hi> Et il détruit entierement le Sacrifice de la Meſſe, depuis le 7. chapitre de ſon Epitre aux Hebreux, juſqu'au 10. que je vous prie de lire avec la der<g ref="char:EOLhyphen"/>niere attention, &amp; vous y voirez, que la Meſſe n'eſt autre choſe qu'un pieux artifice inventé pour éblouïr les yeux de vos Peuples ignorans, par un amas pompeux de ceremonies, &amp; pour attirer leurs offrandes &amp; leurs ar<g ref="char:EOLhyphen"/>gent, en leurs faiſant accroire que
+<pb n="35" facs="tcp:154248:20"/>ce prótendu Sacrifice eſt d'une grande utilité pour les guerir de leurs mala<g ref="char:EOLhyphen"/>dies, pour leurs faire gagner leurs procez, pour les conſoler dans leurs afflictions, pour rendre la ſanté à leurs beſtiaux; &amp; enfin pour retirer les ames de leurs parens, &amp; de leurs amis deffunts, du feu du Purgatoire.</p>
+            <p>Jugez, Meſſieurs, quels étoient mes ſouffrances, &amp; combien étoient grands les remors de ma conſcience, lors que convaincu de l'abſence réelle de Jeſus Chriſt dans l'Euchariſtie, &amp; de la fauſſeté des autres Sacremens; j'étois cependant obligé de m'apro<g ref="char:EOLhyphen"/>cher preſque tous les jours des Autels, d'adminiſter ſes Sacremens, &amp; de Prêcher avec fermeté, les erreurs les plus groſſieres de vôtre Religion. J'entendois au dedans de mon coeur une voye interieure, qui me repro<g ref="char:EOLhyphen"/>choit que je retenois la verité en in<g ref="char:EOLhyphen"/>juſtice, que j'alterois ſa Divine Pa<g ref="char:EOLhyphen"/>role, &amp; que je contrediſois à ſon Evangile. Cependant j'étois dans la même inſenſibilité où vous étes, à tous ſes reproches. L'amour de ma
+<pb n="36" facs="tcp:154248:21"/>famille, l'union étroite que j'avois avec mes amis, la vie douce que je ménois dans le plus agréable de tous les Païs, me rendoient ſourds à cet<g ref="char:EOLhyphen"/>te Divine Parole, &amp; je me conten<g ref="char:EOLhyphen"/>tois d'une ſeparation Négative, dans laquelle il eſt impoſſible de faire ſon ſalut.</p>
+            <p>Mais, Meſſieurs, voyons juſqu'où vous pouſſez vôtre aveuglement, &amp; quelle-eſt la ſimplicité de vos Peuples touchant le culte abominable que vous rendez à l'Eternel? Vôtre Egli<g ref="char:EOLhyphen"/>ſe s'eſt enfin, laſſée de ſervir Dien en eſprit &amp; en verité, comme il nous l'avoit ordonné; elle s'eſt dégoutée d'un culte ſi pur &amp; ſi degagé de la matiere: Il luy faut quelque choſe de ſenſible; &amp; à l'imitation des Iſraëli<g ref="char:EOLhyphen"/>tes, elle veut des Dieux viſibles qui aillent devant elles. Elle adore du pain dans le Sacrement de l'Eucha<g ref="char:EOLhyphen"/>riſtie, elle ſe fait des Images taillées, elle ſe met à genoux devant elles, elle les invoque, les prie, leurs don<g ref="char:EOLhyphen"/>ne de l'encens, leurs dreſſe des Au<g ref="char:EOLhyphen"/>tels, leurs conſacre des jours de Fê<g ref="char:EOLhyphen"/>tes,
+<pb n="37" facs="tcp:154248:21"/>porte leur chaſſes avec pompe en Proceſſion, contre ce grand &amp; pre<g ref="char:EOLhyphen"/>mier Commandement de la Loy de Dieu, expliqué en tant d'endroits de l'Ecriture, <hi>Tu n'aur as point d'autres Dieux devant ma face, tu adorer as le Seigneur ton Dieu, &amp; tu le ſervir as luy ſeul.</hi> Il eſt inutile de dire que vous raportez à Dieu le culte que vous rendez aux Images. Croyez vous, Meſſieurs, que Dieu ſe paye de ces prétendües directions d'intention, quand on entreprend de violer ſa Loy. Il n'y a point de direction d'inten<g ref="char:EOLhyphen"/>tion, qui puiſſe excuſer un ſi grand crime. Les Idolatres vous diront qu'ils raportoient leur culte à la Di<g ref="char:EOLhyphen"/>vinité qui étoit repreſentée par l'Ido<g ref="char:EOLhyphen"/>le qu'ils adoroient; &amp; il eſt certain que ſi vous faites attention ſur ce que l'Ecriture nous dit touchant les Iſraë<g ref="char:EOLhyphen"/>lites qui adoroient le Veau d'Or, vous ſerez perſu<g ref="char:cmbAbbrStroke">̄</g>adé qu'ils ne regardoient ce Veau d'Or, que comme un Sym<g ref="char:EOLhyphen"/>bole de la preſence de l'Eternel, &amp; que leur adoration ſe raportoit à ce
+<pb n="38" facs="tcp:154248:22"/>Dieu qui les avoit tiré d'Egypte, le<g ref="char:EOLhyphen"/>quel ils avoient deſſein d'adorer ſous la ſigure de ce Veau d'Or: cependant cette direction d'intention n'empê<g ref="char:EOLhyphen"/>cha pas que ce culte ne fut regardé comme une idolatrie abominable. Il en eſt de même de toutes ces genu<g ref="char:EOLhyphen"/>flexions, de tous ces proſternemens, &amp; de toutes les autres marques d'a<g ref="char:EOLhyphen"/>doration exterieure que vos corps rendent aux Images, aux Chaſſes, aux Croix, aux Reliques, (ſelon les De<g ref="char:EOLhyphen"/>crets de vos Conciles de Nicée &amp; d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Trente, qui veullent qu'elles ſoien<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> honorées, venerez &amp; adorées ſelo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> l'honneur &amp; le culte que l'on croi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> devoir étre rendu à ceux qu'elle<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> repreſentent) &amp; qui ſont ſcandaleuſes, Idolatres &amp; contraires à la gloire d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Seigneur, qui doit &amp; qui veut ét<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> adore directement en eſprit &amp; en ve<g ref="char:EOLhyphen"/>rité, &amp; dans le Ciel où eſt le Trô<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> de ſa Majeſté glorieuſe. Auſſi bie<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> l'invocation des Saints, &amp; le ſervi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Religieux que vous rendez quelque<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="39" facs="tcp:154248:22"/>fois à des malheureux qui ſont morts dans le peché, comme le remarque fort bien Monſieur de Launoy Doc<g ref="char:EOLhyphen"/>teur de Sorbonne, dans ſon Livre. <hi>Launoii Opera,</hi> dans lequel il déni<g ref="char:EOLhyphen"/>che pluſieurs de ces Saints imaginai<g ref="char:EOLhyphen"/>res, du Paradis, qui étoient des infames &amp; des ſcelerats. D'ailleurs, n'eſt-ce paś faire tort à Dieu, que d'avoir recours aux creatures, puis qu'il veut que nous adreſſions tou<g ref="char:EOLhyphen"/>tes nos Prieres à luy ſeul, &amp; que nous mettions toute nôtre confiance en Jeſus Chriſt, qui invite tous ceux qui ſont travaillez &amp; chargez, de venir à luy, &amp; non pas à ſa Mere, ni à ſes Apôtres, ni aux Saints? Il me ſemble donc qu'on ne riſque rien en allant directement à Dieu quand il nous apelle, &amp; qu'il nous tend les bras pour nous ſécourir dans nos beſoins.</p>
+            <p>A l'égard de la Doctrine du Pur<g ref="char:EOLhyphen"/>gatoire, qui doit ſon établiſſement au Concile de Florence, il eſt cer<g ref="char:EOLhyphen"/>tain qu'elle n'eſt dans aucun endroit
+<pb n="40" facs="tcp:154248:23"/>de l'Ecriture; elle dit au contraire en cent endroits, <hi>Qu'après cette vie les Fidelles vont droit au Ciel.</hi> Et Jeſus Chriſt ne parle que de ſa gauche ou de ſa droite. Cependant pour éta<g ref="char:EOLhyphen"/>blir vôtre Purgatoire, vous l'allez chercher dans un lieu obſcur &amp; ſom<g ref="char:EOLhyphen"/>bre, qui eſt cette priſon, dites vous, dont il eſt parlé au 12. chapitre de Saint Luc verſet 59. <hi>d'où l'on ne doit point ſortir juſqu'à ce qu'on ait rendu la derniere pitte.</hi> Je ne vois point, Meſſieurs, que ces Paroles puiſſent s'entendre du Purgatoire. Et ſi le Paradis &amp; l'Enfer n'étoient pas mieux prouvez dans les Saintes Ecritures, les profanes auroient lieu de ſe mo<g ref="char:EOLhyphen"/>quer de nous. Vous vous retranchez encore ſur un autre paſſage des Mac<g ref="char:EOLhyphen"/>cabez, que vous croyez vous être favorable. Mais outre que ce paſſa<g ref="char:EOLhyphen"/>ge ne dit rien du feu du Purgatoire, &amp; qu'il y eſt ſeulement parlé d'un Sacrifice à Dieu, pour ſouhaitter une heureuſe reſurrection aux Juifs décedez; c'eſt qu'il n'eſt pas reçû
+<pb n="41" facs="tcp:154248:23"/>áu nombre des Livres Canoniques, l'écrivain étant demy Juif &amp; demy Payen: Ainſi cette Doctrine n'a été inventée que pour intimider les ames foibles, pour les tenir dans une cer<g ref="char:EOLhyphen"/>taine captivité, &amp; pour les obliger à vous donner tous leurs biens, com<g ref="char:EOLhyphen"/>me ils ont été aſſéz ſots pour le faire, &amp; dont tant de celebres Abbaïes ont fait leur profit dans les Siécles paſſez. Cette Doctrine du Purgatoire eſt d'ailleurs injurieuſe à la miſericorde de Dieu; car ſi le Chriſt a fait la purgation de nos pechez par le Sacri<g ref="char:EOLhyphen"/>fice qu'il a offert à Dieu pour nous, il s'enſuit, ou que ſon Sacrifice n'a pas été ſuffiſant pour expier nos pe<g ref="char:EOLhyphen"/>chez, ou que Dieu nous fait ſouffrir pour des pechez que le ſang de Jeſus Chriſt a expié; ce qui ne ſe peut dire ſans un blaſpheme &amp; une impieté horrible.</p>
+            <p>Pour ce qui regarde la Confeſſion Auriculaire dont Monſieur vôtre Evêque relevoit tant l'utilité &amp; le merite, elle n'eſt qu'une invention
+<pb n="42" facs="tcp:154248:24"/>purement humaine, abſolument con<g ref="char:EOLhyphen"/>traire à la penſée de Saint Jacques, dont il aportoit ce paſſage, <hi>Confeſſez vous l'un à l'autre vos péchez.</hi> Il eſt certain que s'il luy plaiſoit d'exa<g ref="char:EOLhyphen"/>miner ce paſſage ſans prevention, il verroit que cét Apôtre parloit d'une Confeſſion libre, mutuelle, &amp; re<g ref="char:EOLhyphen"/>ciproque des Chrêtiens qui s'étoient offenſez les uns les autres, &amp; nulle<g ref="char:EOLhyphen"/>ment d'une Confeſſion Sacramen<g ref="char:EOLhyphen"/>tale, où le Confeſſeur s'érige comme en Juge pour pardonner les pechez avec une pleine authorité, quoy qu'il n'y ait que Dieu ſeul, ſelon Saint Marc chapitre 11. verſet 5. qui dit expreſſement, <hi>Qui eſt-ce qui peut pardonner les pechez, ſinon un ſeul Dieu? C'eſt moy,</hi> dit-il par ſon Pro<g ref="char:EOLhyphen"/>phete Iſaïe, <hi>qui efface les pechez pour l'amour de moy, &amp; qui ne m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſouviendray point de tes tranſgreſſions.</hi> Enfin, vous n'avez qu'à voir ce que Jeſus Chriſt &amp; ſes Apôtres ont prati<g ref="char:EOLhyphen"/>quez, pour être convainous qu'il<g ref="char:EOLhyphen"/>n'ont pas eu la penſée d'établir cett<g ref="char:EOLhyphen"/>ſorte
+<pb n="43" facs="tcp:154248:24"/>de Confeſſion. Vous n'avez qu'à lire les Confeſſions de David, de Jeremie, de Nehemie, de Da<g ref="char:EOLhyphen"/>niel, &amp; même de Saint Auguſtin, leſquels fe ſont adreſſez directement à Dieu. Et en effet, ne voyons nous pas, que lors que Jeſus Chriſt prêche la Doctrine du ſalut, il n'or<g ref="char:EOLhyphen"/>donne pas de faire une Confeſſion Auriculaire, pour en obtenir le par<g ref="char:EOLhyphen"/>don, mais il dit en general, <hi>Repen<g ref="char:EOLhyphen"/>tez vous &amp; croyez à l'Evangile.</hi> Et lors que Saint Paul exhorte les Co<g ref="char:EOLhyphen"/>rinthiens à ſe diſpoſer ſaintement à la Communion, il ne leur ordon<g ref="char:EOLhyphen"/>ne pas non plus d'aller Confeſſer leurs pechez les uns après les autres à l'o<g ref="char:EOLhyphen"/>reille d'un Prêtre, il veut ſeulement qu'ils examinent eux mêmes leurs pechez, &amp; pour en demander par<g ref="char:EOLhyphen"/>don à Dieu, <hi>Que chacun,</hi> dit-il, dans ſa premiere aux Corinthiens chapitre 11. verſet 27. <hi>s'éprouve ſoy même, &amp; qu'ainſi</hi> il mange de ce pain &amp; boive de cette coupe. Il faut donc que vous conveniez que
+<pb n="44" facs="tcp:154248:25"/>la repentance eſt un devoir auquel Dieu oblige tous les Fideles depuis la chute de nos premiers parents. Les Prophetes &amp; les Apôtres ont prêché cette Doctrine, &amp; tous les Livres Sacrez en font mention, &amp; que ce n'eſt point un Sacrement de la Nou<g ref="char:EOLhyphen"/>velle Alliance, ni un ſigne viſible inſtitué de Jeſus Chriſt, pour repre<g ref="char:EOLhyphen"/>ſenter une grace inviſible, mais ſeu<g ref="char:EOLhyphen"/>lement une invention purement hu<g ref="char:EOLhyphen"/>maine, auſſi bien que vos préten<g ref="char:EOLhyphen"/>dües ſatisfactions que vous impoſez à vos Penitens, comme des conditions eſſentielles au ſalut, &amp; comme des moyens pour apaiſer la juſtice divine; ce qui déroge à la perfection du Sacrifice de Jeſus Chriſt, &amp; qui dé<g ref="char:EOLhyphen"/>tourne l'eſprit d'une ſincere &amp; ve<g ref="char:EOLhyphen"/>ritable converſion. Car il eſt certain que les bonnes oeuvres ne peuvent rien meriter devant Dieu, comme il nous en aſſeure luy même par la bouche de ſon Apôtre aux Epheſiens chapitre 2. verſet 8. <hi>Car vous étes ſavvez par Grace par la Foy, &amp; n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n
+<pb n="45" facs="tcp:154248:25"/>Point par les oeuvres, afin que per<g ref="char:EOLhyphen"/>ſonne ne ſe glorifie.</hi> Ainſi nous ſom<g ref="char:EOLhyphen"/>mes reconciliés avec Dieu par les me<g ref="char:EOLhyphen"/>rites infinies de Jeſus Chriſt, rege<g ref="char:EOLhyphen"/>nerez par ſon ſang, juſtifiez par nô<g ref="char:EOLhyphen"/>tre Foy operante en charité, en pro<g ref="char:EOLhyphen"/>duiſant en nous la pieté, le zele, la penitence, &amp; toutes les vertues Chrê<g ref="char:EOLhyphen"/>tiennes. Et en effet, ſans la grace, nôtre Nature eſt ſi foible &amp; ſi corrom<g ref="char:EOLhyphen"/>püe, quelle ne peut d'elle même ſso-porter au bien; mais fortifiée de cet<g ref="char:EOLhyphen"/>te grace, elle peut tout executer ce qui eſt neceſſaire à nôtre ſalut. La Juſtice de Jeſus Chriſt couvrant tous les deffauts inſeparables de nos meil<g ref="char:EOLhyphen"/>leures actions. Il eſt vray, Meſſieurs, que cette Confeſſion ſecrette vous eſt fort avantageuſe, &amp; combien d'a<g ref="char:EOLhyphen"/>gréables entretiens avons nous eu en<g ref="char:EOLhyphen"/>ſemble touchant ces pechez mignons de certaines perſonnes que vous con<g ref="char:EOLhyphen"/>noiſſez aſſez ſimples pour vous de cla<g ref="char:EOLhyphen"/>rer juſqu'à leurs plus ſecrettes penſées, &amp; leurs ſecrettes allarmes, les faiſant expliquer juſqu'aux moindres cir<g ref="char:EOLhyphen"/>conſtances,
+<pb n="46" facs="tcp:154248:26"/>dont vous nous faiſiez un recit ſi fidele. De là naiſſent des monſtres d'impureté, puis que ce ſont les voyes les plus faciles pour attenter à la pudicité des femmes &amp; des filles les plus vertueuſes. Par elle une imagination eſt ſoüillée, en entendant les deſordres dans leſquels une femme criminelle eſt tombée, &amp; juſqu'à la moindre circonſtance d'une intrigue, qué l'on prend ſoin de luy faire expliquer, comme étant de l'eſſence de ſa Confeſſion, par mille petites interrogations fines, qu'une Dame un peu galante ne ſouffriroit pas dans un tête à téte le plus fa<g ref="char:EOLhyphen"/>millier. Vous ſavez, Meſſieurs, combien eſt grande la foibleſſe du coeur de l'homme, &amp; quels perni<g ref="char:EOLhyphen"/>cieux effets au ſalut peut produire une hiſtoire de galanterie, qu'une jeune perſonne expoſe aux oreilles de ſon Confeſſeur. Je paſſe ſous ſilence un infinité de circonſtances que je pourrois vous raporter icy touchant la Confeſſion Auriculaire, que vous
+<pb n="47" facs="tcp:154248:26"/>ſavez auſſi bien que moy, de peur de ſcandaliſer mes Freres.</p>
+            <p>Voila, Meſſieurs, une partie des raiſons qui m'ont fait connoître les erreurs de l'Egliſe Romaine, &amp; qui m'ont obligez à me ſeparer de vous. Car je ne finirois point ſi j'entrepre<g ref="char:EOLhyphen"/>nois de vous les expoſer toutes. Je ne vous diray donc rien touchant le ſer<g ref="char:EOLhyphen"/>vice en langue inconnüe, que nous avons ſi ſouvent blâmé, &amp; ſi contrai<g ref="char:EOLhyphen"/>re à l'eſprit de Saint Paul, qui dit, <hi>Que d'agir de la ſorte, c'eſt ſe ren<g ref="char:EOLhyphen"/>dre barbare l'un à l'autre;</hi> auſſi bien que la diſtinction des viandes, contre ces paroles du même Apôtre dans la premiere aux Corinthiens chapitre 8. verſet 9. &amp; 10. &amp; cha<g ref="char:EOLhyphen"/>pitre 10.2<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Que la viande ne nous rend pas plus agréables à Dieu; que nous pouvons manger de tout ee qui ſe vend à la boucherie, ſans nous enque<g ref="char:EOLhyphen"/>rir pour la conſcience.</hi> Que diray<g ref="char:EOLhyphen"/>je, Meſſieurs, des Indulgences, des Jeunes Anniverſaires, du Carême, des Voeux des Moines, des cas reſer<g ref="char:EOLhyphen"/>vez,
+<pb n="48" facs="tcp:154248:27"/>des diſpenſes de Mariage, des Fêtes des Saints, des Octaves, des Luminaires, des Crêmes, de l'Eau Benite, du Roſaire, du Scapulaire, des chemiſes Benites; &amp; enfin d'un iufinité d'autres Ceremonies de vô<g ref="char:EOLhyphen"/>tre Egliſe, inconnuës dans les Pre<g ref="char:EOLhyphen"/>miers Siécles, &amp; dont les plus ha<g ref="char:EOLhyphen"/>biles gens de vôtre Religion ſe mo<g ref="char:EOLhyphen"/>quent &amp; gemiſſent.</p>
+            <p>En faut-il davantage, Meſſieurs, mes très chers Freres, pour vous faire voir, que c'eſt dans l'Egliſe Proteſtante où la pureté de l'Evan<g ref="char:EOLhyphen"/>gile eſt enſeignée, &amp; par conſequent vous étes indiſpenſablement obligez en conſcience, d'imiter nôtre Sainte Reformation, bien loin de me re<g ref="char:EOLhyphen"/>garder comme un Heretique; ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> c'eſt le nom que me donne Monſieur vôtre Evêque, avec ſa charité or<g ref="char:EOLhyphen"/>dinaire. Je ne puism'empêcher d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> vous avoüer, qu'une des marque des plus certaines de la fauſſeté d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> vôtre Religion, &amp; ce qui ma entie rement determiné à tout abandon
+<pb n="49" facs="tcp:154248:27"/>ner, c'eſt de voir les excez &amp; les tourmens innouis qùe l'on fait ſouf<g ref="char:EOLhyphen"/>frir à nos Freres dans vôtre Dioce<g ref="char:EOLhyphen"/>ſe. On ne s'eſt pas contenté de s'em<g ref="char:EOLhyphen"/>parer de leurs biens, de les exiler dans des lſles ou ils periſſent de faim, &amp; ſouffrent des maux infinis, d'en envoyer quelqu'uns aux Galleres, d'empriſonner les autres, d'enléver les enfans d'entre les mains de leurs meres, pour les mettre aux nouvel<g ref="char:EOLhyphen"/>les Catholiques, de ſéparer les fem<g ref="char:EOLhyphen"/>mes d'avec leurs mary. Enfin, ce Saint Prelat, qui ne les conjuroit que par les entrailles de la miſeri<g ref="char:EOLhyphen"/>corde, ne parle plus que de priſons &amp; de Couvents; qui, dans le com<g ref="char:EOLhyphen"/>mencement ne les traitoit que de les Freres bien aimez, ne les appel<g ref="char:EOLhyphen"/>le plus que des Herétiques, &amp; les force avec une violence innouïe à prendre ſans foy, ce qu'ils appellent <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e corps de Jeſus Chriſt; &amp; s'ils re<g ref="char:EOLhyphen"/>fuſent de le faire avant que de mou<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir, les menace de faire trêner leurs corps ſur la claye, &amp; de les faire déchi<g ref="char:EOLhyphen"/>rer
+<pb n="50" facs="tcp:154248:28"/>&amp; manger par les chiens. N'eſt ce pas là violer toutes les Loix Divines &amp; humaines? J'en appelle à vos pro<g ref="char:EOLhyphen"/>pres conſciences. Et une telle fureur, n'eſt-t-elle pas capable de vous faire rentrer en vous même, &amp; de vous unir tous, pour repreſenter hauté<g ref="char:EOLhyphen"/>ment au Roy, l'état déplorable dans lequel Meſſieurs les Prelats de France l'ont jetté, en luy faiſant croire que ſon ſalut étoit attaché aux Perſecu<g ref="char:EOLhyphen"/>tions qu'il fait ſouffrir à tant de milliers de perſonnes, qui vivent dans la pureté du Chriſtianiſme, &amp; qui ſont autant de Martyrs de la verité? Ainſi, Meſſieurs, quelques avantageuſes que ſoient les promeſ<g ref="char:EOLhyphen"/>ſes de Monſieur vôtre Evêque, ſi je retourne dans le ſein de ſon Egliſe, &amp; quelques foudroyantes que ſoient ſes menaces ſi j'embraſſe la Religion Proteſtante, elles ne ſeront jamais capables de me reſoudre à retour<g ref="char:EOLhyphen"/>ner dans cette impure Babylone d'eù l'Eternel ma fait la grace de
+<pb n="51" facs="tcp:154248:28"/>me retirer. Il y va de mon ſalut &amp; de ma damnation éternelle; &amp; je tremble en voyant les dangers dont j'ay courû riſque êrant parmy vous. Ainſi j'aimerois beaucoup mieux ſouffrir la faim; la ſoif, la nudité, l'exil, &amp; la mort même la plus in<g ref="char:EOLhyphen"/>faure, que de retourner dans l'er<g ref="char:EOLhyphen"/>reur d'où je ſuis heureuſement ſorty.</p>
+            <p>Je vous conjure donc, Meſſieurs, Mes très chers Freres, par l'étroite union qui étoit entre nous, de faire tous vos efforts pour ne pas participer à l'Idolatrie &amp; aux erreurs qui ſont dans vôtre Religion. Je ne prétend pas pour cela vous engager d'aban<g ref="char:EOLhyphen"/>donner vos Benefices &amp; vos biens, pour venir en ce Païs icy. Je ſay que ce ſeroit trop exiger de vous. Cependant ſinvous atten<g ref="char:EOLhyphen"/>dez que la mort vous dépoüille mal<g ref="char:EOLhyphen"/>gre vous de tous ces biens de l'Egliſe que vous vous étes appropriez, &amp; de toutes ces dignitez qui ſatisfont ſi amplément vôtre avarice &amp; vôtre
+<pb n="52" facs="tcp:154248:29"/>ambition, vous aurez un terrible compte à rendre à ce grand Dieu, puis que l'Apôtre nous aſſeure, que c'eſt une choſe épouventable que de tomber entre ſes mains. Faites donc, je vous prie, Meſſieurs, quelque re<g ref="char:EOLhyphen"/>tour ſur vous mêmes, par le ſoin que vous devez prendre de vôtre ſalut. Et ſi les preuves que je n'ay touché dans ma Lettre, qu'en paſ<g ref="char:EOLhyphen"/>ſant, ne font pas capables de vous convaincre ſuffiſament, je m'oftre à vous en donner encore de plus for<g ref="char:EOLhyphen"/>tes; Car je ſay, &amp; je connois plu<g ref="char:EOLhyphen"/>ſieurs perſonnes d'un merite diſtin<g ref="char:EOLhyphen"/>gué parmy vous, qui ſont plus que demie convaincus; mais l'appre<g ref="char:EOLhyphen"/>henſion de quitter leurs Païs &amp; leur établiſſement, &amp; de s'expoſer aur dernieres miſeres, les retient mal<g ref="char:EOLhyphen"/>héuréuſement, &amp; les empêche de pouſſer leurs connoiſſances auſſi loin qu'ils pourroient le faire. J'ay reſ<g ref="char:EOLhyphen"/>ſenty moy même cette apprehenſion avant que de me déterminer à par tir, &amp; après l'avoir ſurmonté avec
+<pb n="53" facs="tcp:154248:29"/>le ſecours de la grace, il n'y a eu plus rien capable de me retenir, &amp; de m'empêcher de confeſſer hautément la verité que je connoiſſois. Auſſi l'Eternel m'a-t-il comblé de douceurs &amp; de conſolations, dans une violen<g ref="char:EOLhyphen"/>te maladie que j'ay eu en arrivant en ce Païs icy; &amp; j'eſpere que le même Seigneur qui ma ordonné de quitter toutes choſes pour le ſervir, me for<g ref="char:EOLhyphen"/>tifira toûjours par la vertu de ſon bras tout puiſſant, &amp; qu'ayant ré<g ref="char:EOLhyphen"/>pendu ſur moy ſes plus vives lumie<g ref="char:EOLhyphen"/>res, il me donnera le don de la perſe<g ref="char:EOLhyphen"/>verance, &amp; il produira en vous les mêmes effets. C'eſt la grace que je luy demande de toute l'étendüe de mon coeur, &amp; à vous celle de me croire toûjours avec eſtime,</p>
+            <closer>
+               <salute>MESSIEURS,</salute>
+               <signed>
+                  <hi>Vòtre très-humble, &amp; très<g ref="char:EOLhyphen"/>obeïſſant Serviteur,</hi> DE LA VALLETTE.</signed>
+               <dateline>
+                  <hi>A Londres ce</hi> 
+                  <date>1 <hi>Septembre.</hi> 1700.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="publishers_advertisement">
+            <pb n="1" facs="tcp:154248:30"/>
+            <head>
+               <hi>CATALOGUE DES</hi> Livres de Devotion qui ſe trouvent chez <hi>D. DU CHEMIN</hi> Marchand Libraire dans le <hi>Strand,</hi> vis-à-vis <hi>Somerfet-Houſe,</hi> au Sacri<g ref="char:EOLhyphen"/>fice d'Abraham.</head>
+            <list>
+               <item>BIBLE de des Marets Folio 2. Volumes.</item>
+               <item>Bible Folio d'Amſterdam 1700. avec les Pſeaumes de Conrrat.</item>
+               <item>Bible Folio de Geneve. 1693.</item>
+               <item>Folio par Diodati, Geneve 1644.</item>
+               <item>Bibles 4. de Londres groſſe Lettres</item>
+               <item>Bible d'Hollande grandes &amp; petites.</item>
+               <item>N. Teſtamens &amp; Pſeaumes de toute grandeurs &amp; groſſeurs de Lettres.</item>
+               <item>Pſeaumes de toutes grandeurs &amp; gro<g ref="char:EOLunhyphen"/>ſeurs de Lettres.</item>
+            </list>
+            <list>
+               <pb n="2" facs="tcp:154248:30"/>
+               <head>Ouvres de le Faucheur.</head>
+               <item>TRaité de la Ste. Cene Folio.</item>
+               <item>Sermon ſur les Actes 80. 4. vol.</item>
+               <item>Sermons aux Epheſiens Octavo.</item>
+               <item>Sermons aux Theſaloniciens 80.</item>
+               <item>Sermons ſur les Pſeaumes 80.</item>
+               <item>Prieres Chrêtiennes in 12.</item>
+               <item>Exhortation à la Repentance in 12.</item>
+            </list>
+            <list>
+               <head>Ouvres d'Aubertin.</head>
+               <item>DE l'Euchariſtie in Folio.</item>
+               <item>De la Tranſubſtantiation in 4.</item>
+               <item>Quelques Sermons in douze.</item>
+            </list>
+            <list>
+               <head>Ouvres de Meſtrezat.</head>
+               <item>TRaité de l'Egliſe in Quarte.</item>
+               <item>De la Communion à Jeſus</item>
+               <item>Chriſt Octavo.</item>
+               <item>Traité de l'Ecriture Octavo.</item>
+               <item>Sermons aux Hebreux 5. vol. 8.</item>
+               <item>Sermons ſur S. Jean 2. vol.</item>
+               <item>20 Sermons ſur divers Textes</item>
+               <item>Diſcours comment Jeſus Chriſt nous eſt donné en l'Euchariſtie.</item>
+               <item>Tableau du Sacrement in 12.</item>
+            </list>
+            <list>
+               <head>Ouvres de Drelincourt.</head>
+               <item>TRaité des Juſtes Cauſes Quarto.</item>
+               <item>De l'honneur à la Sainte Vier<g ref="char:EOLhyphen"/>ge</item>
+               <item>2 volumes Octavo.</item>
+               <item>
+                  <pb n="3" facs="tcp:154248:31"/>Du faux Viſage de l'Antiquité 8.</item>
+               <item>Des Nullitez Prétendües 8.</item>
+               <item>Les 4 Dialogues contre les Miſſion. 8.</item>
+               <item>Réponſe au Prince Erneſt &amp; 3 Let. 8.</item>
+               <item>Défenſe pour Calvin 8.</item>
+               <item>Le Combat Romain 8.</item>
+               <item>Le Jubilé des Egliſes Reformées 8.</item>
+               <item>Le Saint Miniſtere Sermons 8.</item>
+               <item>Trois Volumes Sermons Octavo.</item>
+               <item>Abregé des Controverſes in 12.</item>
+               <item>Conſolations Contre la Mort 8.</item>
+               <item>Triomphe de l'Egliſe ſur la Croix 2. volumes Octavo.</item>
+               <item>Le Faux Paſteur Convaincu 8.</item>
+               <item>Catechiſme ou Inſtruction Fam. 8.</item>
+               <item>Viſite Charitables 5. vol. Octavo.</item>
+               <item>Preparation à la Ste. Cene in 12.</item>
+            </list>
+            <list>
+               <head>Ouvres de Daillé</head>
+               <item>REplique à Adam &amp; Cottiby 4.</item>
+               <item>De l'Employ des Peres 8.</item>
+               <item>De la Croyance des Peres ſur les Ima.</item>
+               <item>Examen du Livre de la Milletiere 8</item>
+               <item>Apologie des Egliſes Reformées 8.</item>
+               <item>Lettre de Monſieur de Monelar 8.</item>
+               <item>La Foy Fondée ſur l'Ecriture 8.</item>
+               <item>Sermons à Thimothée 4. vol. 8.</item>
+               <item>Sermons aux Phillippiens 2. vol. 8.</item>
+               <item>
+                  <pb n="4" facs="tcp:154248:31"/>Sermons aux Colloſiens 3. vol. 8.</item>
+               <item>Sermons, Melange 2. vol. 8.</item>
+               <item>Sermons aux Corinthiens 2. vol.</item>
+               <item>Sur l'Epitre à Tite 8.</item>
+               <item>Sur les Hebreux 8.</item>
+               <item>Sur la Naiſſance, Mort &amp; Reſur. 8.</item>
+               <item>Quinze Sermons du Voyage de Saum.</item>
+               <item>Sermons ſur Saint Jean 8.</item>
+               <item>Sermons ſur divers Textes 8.</item>
+               <item>Sermons ſur certains jours de l'ann. 8.</item>
+               <item>Deux Sermons Octavo &amp; ſa Vie.</item>
+            </list>
+            <list>
+               <head>Ouvres de la Placette.</head>
+               <item>ESSais de Morale quatre volum.</item>
+               <item>Abregé de la Morale in douze.</item>
+               <item>Traité de la Conſcience 2. vol.</item>
+               <item>Traité de l'Orgueil in douze.</item>
+               <item>De la Foy Divine, in douze.</item>
+               <item>Traité de l'Aumône 12.</item>
+               <item>Communion Devote 2 vol.</item>
+               <item>De la Mort des Juſtes.</item>
+               <item>Des Reſtitutions in douze.</item>
+            </list>
+            <list>
+               <head>Ouvres de du Boſe.</head>
+               <item>SErmons ſur divers Textes 2. vol. 8.</item>
+               <item>Sermons aux Epheſi. 3. vol. 8.</item>
+               <item>Conſiderat. ſur les Deelarat. du Roy.</item>
+               <item>La Vie de Monſieur du Boſc. 8.</item>
+            </list>
+            <list>
+               <pb n="5" facs="tcp:154248:32"/>
+               <head>Ouvres de du Moulin.</head>
+               <item>OEuvres de du Moulin 10. vol. 8.</item>
+               <item>Du Moulin le Fils, Decade 10</item>
+               <item>Sermons Octavo.</item>
+               <item>Traité de la Paix de l'Ame 8.</item>
+               <item>Semaine de Meditations in douze.</item>
+               <item>De la Paix de l'Egliſe Octavo.</item>
+               <item>Combat Chtêtien in douze.</item>
+               <item>Prieres de du Moulin in 24.</item>
+            </list>
+            <list>
+               <head>Ouvres d'Abadie.</head>
+               <item>VErité de la Religion 3. vol.</item>
+               <item>L'Art de ſe Conn. ſoy-même</item>
+               <item>Defenſe de la Nation Britaniq. in 12.</item>
+               <item>De la Preſence Réelle in 12.</item>
+               <item>Le Caractere du Chrêtien 3 Sermons</item>
+               <item>Penegerique de la Reine.</item>
+               <item>Sermon de la Mort des Juſtes 8.</item>
+               <item>Sermon ſur la Charité 8.</item>
+               <item>Trois Sermons ſur divers Textes 8.</item>
+               <item>Hiſtoire de la Derniere Conſpiration</item>
+               <item>Gaches, 16 Sermons.</item>
+               <item>Preparations à la Sainte Cene.</item>
+               <item>Ouvres de Claudes 17. Volumes.</item>
+            </list>
+            <list>
+               <head>Ouvres de Morus.</head>
+               <item>SErmon ſur le Catechiſme 2. vol. 8</item>
+               <item>Sermons choiſis Octavo.</item>
+               <item>Dix-huit Sermons octavo Geneve.</item>
+               <item>
+                  <pb n="6" facs="tcp:154248:32"/>Fragmens de Morus.</item>
+               <item>Sept Sermons Octavo.</item>
+               <item>Poëme ſur la Naiſſance ce J. Chriſt.</item>
+               <item>Harangues prononcées à Geneve.</item>
+               <item>Ses dernieres Heures Octavo.</item>
+            </list>
+            <list>
+               <head>Ouvres de Bânages.</head>
+               <item>HIſtoire de l'Egliſe Folio 2. vol.</item>
+               <item>Traité de la Conſ. 2. vol. in 12.</item>
+               <item>De la Communion Sainte in 12.</item>
+               <item>La Pratique de Pietê octavo &amp; in 12.</item>
+               <item>Des Vertus Chrétiennes 8. &amp; in 12.</item>
+               <item>Hiſtoire de la Sainte Ecriture in 12.</item>
+               <item>Du Vernoy Semaine Sainte 8. Gen.</item>
+               <item>Journée Sainte in 12.</item>
+               <item>Dialogue d'un Bergé &amp; d'un Prêtre 8.</item>
+               <item>Diſcipline des Egliſ. Ref. par d'Huiſſ.</item>
+               <item>Bonnes &amp; Saintes Penſées in 12.</item>
+               <item>Traité du Don de la Priere 8.</item>
+               <item>Prieres d'Haberman in 24.</item>
+               <item>Treſor de Prieros in 24.</item>
+               <item>Priere <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> l'<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>criture in 12.</item>
+               <item>Chanſons Spirituelles in 12.</item>
+               <item>Geograp. de Merveilleux 2. vol. 8.</item>
+               <item>Reflexions ſur la Mort par le Dr. Sher.</item>
+               <item>Du Bourdieu Retrano de la Goupe.</item>
+               <item>Catechiſme de Montpellier.</item>
+               <item>Dargenteuil, Motifs de ſa Converſi.</item>
+               <item>
+                  <pb n="7" facs="tcp:154248:33"/>Sermons ſur la Paix, par le méme.</item>
+               <item>Sainte Aldegonde, Tableau des dife<g ref="char:EOLhyphen"/>rens de la Religion 2. vol. 8.</item>
+               <item>Le Catholicon d'Eſpagne in 12.</item>
+               <item>Renoult, le Vray Tableau du Papiſme.</item>
+               <item>Baignou, Sermon ſur la derniere Conſ.</item>
+               <item>Les Quatrains de Pybrac 8.</item>
+               <item>Lettre d'un Confeſſeur à un Miniſtre de Londres.</item>
+               <item>Tragedie du Sacrifice d'Abraham.</item>
+               <item>Pere Veron, Meſſe trouvée en l'Ecrit.</item>
+               <item>Nouvelle Epitre de Boileau 8.</item>
+               <item>Avis Important pour la vie Chrét.</item>
+               <item>Les Proverbes de Salomon in 12.</item>
+               <item>Decrets d'Innocent 11. contre les Jeſ.</item>
+               <item>A, B, C. Gros &amp; Petits.</item>
+               <item>La Chaine d'Or in 12.</item>
+               <item>Motifs de Durette in 12.</item>
+               <item>Lettre de Mr. Philippe à ſa Mere.</item>
+               <item>Sermons ſur le Jubilé par Renoult.</item>
+               <item>Réponſe de Monſieur de la Valett à l'Evéque de Blois.</item>
+               <item>On trouve auſſi dans la Boutiqu dudit Sieur, pluſieurs Livres de tou tes ſortes de Siences.</item>
+            </list>
+            <trailer>FIN.</trailer>
+            <pb facs="tcp:154248:33"/>
+            <pb facs="tcp:154248:34"/>
+            <pb facs="tcp:154248:34"/>
+            <pb facs="tcp:154248:35"/>
+            <pb facs="tcp:154248:35" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
